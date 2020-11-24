@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>turtlebot_project</name>
+  <name>turtlebot_obstacle_avoidance</name>
   <version>0.1.0</version>
-  <description>The turtlebot_project package</description>
+  <description>The turtlebot_obstacle_avoidance package</description>
 
   <maintainer email="ajinkyap@umd.edu">Ajinkya Parwekar</maintainer>
 
