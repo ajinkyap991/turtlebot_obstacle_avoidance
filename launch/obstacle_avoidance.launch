@@ -1,6 +1,6 @@
 <launch>
     <!-- Set to true to record-->
-    <arg name="record" default="true"/>
+    <arg name="record" default="false"/>
     <!-- Turtlebot world launch file-->
     <include file="$(find turtlebot_obstacle_avoidance)/launch/turtlebot3_world.launch"/>
 
