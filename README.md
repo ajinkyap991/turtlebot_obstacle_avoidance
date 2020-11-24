@@ -40,6 +40,10 @@ Open a new terminal window and type:
 ```
 roslaunch turtlebot_obstacle_avoidance obstacle_avoidance.launch
 ```
+## Record a new rosbag file
+Navigate to the launch folder in the package
+Open the obstacle_avoidance.launch file using any text editor
+Change the default arg value of record to "true".
 
 ## Inspecting the Rosbag file
 End the previous process, if its running and then type the following:
